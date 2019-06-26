@@ -1,0 +1,11 @@
+functional requirement
+1)Access carporate customer information
+2)solving their issues
+
+
+
+
+Non-Fonctional Requirement
+1)customer contact
+2)customer Address
+3)customer Iddentification
