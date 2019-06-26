@@ -1,6 +1,7 @@
 functional requirement
-1)Access carporate customer information
-2)solving their issues
+1)login
+2)logout
+3)customer management
 
 
 
